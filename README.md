@@ -1,7 +1,7 @@
 # linear-algebra-HW1
-This is a This is README file for Linear Algebra HW1
-Author: Alice Lee  b07303024
-Date: 2020/10/21
+- This is a This is README file for Linear Algebra HW1
+- Author: Alice Lee  b07303024
+- Date: 2020/10/21
 =====
 ##  Hw1 : Cycle Detection
 ### P1
